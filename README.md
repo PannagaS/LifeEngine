@@ -4,27 +4,9 @@ A cellular-based life simulation inspired by The Life Engine website. This simul
 
 ## Demo
 
-### Basic Organism Movement
-![Basic Movement](docs/gifs/basic_movement.gif)
-*An organism with mover cells navigating the environment*
-
 ### Evolution in Action
-![Evolution](docs/gifs/evolution.gif)
-*Organisms evolving their cellular structure over time*
+![Screencastfrom05-04-2025120224AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/885c9c52-697d-4682-8d21-64546dba405e)
 
-### Predator-Prey Interaction
-![Predator-Prey](docs/gifs/predator_prey.gif)
-*Killer cells hunting and consuming other organisms*
-
-### Energy Production
-![Energy Production](docs/gifs/energy_production.gif)
-*Producer cells generating energy from sunlight*
-
-### Cell Mutation
-![Cell Mutation](docs/gifs/cell_mutation.gif)
-*Cells mutating during reproduction*
-
-> Note: To view these GIFs, run the simulation and use the screen recording feature of your operating system. The GIFs above are placeholders - you can replace them with actual recordings of your simulation in action.
 
 ## Features
 
