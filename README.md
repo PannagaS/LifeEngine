@@ -1,4 +1,4 @@
-# Life Engine Simulation
+# Life Engine Simulation (vibe coding)
 
 A cellular-based life simulation inspired by The Life Engine website. This simulation models the evolution of simple organisms through cellular structures and interactions.
 
